@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=codermz%201998&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZ3Z4bmR6NXByZ3Z4bmR6NXByZ3Z4bmR6NXByZ3Z4bmR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Android Dev Banner" />
   
   <br/>
 
