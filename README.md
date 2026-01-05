@@ -51,7 +51,7 @@
 
   <br />
 
-  <h3>� System Status (GitHub Insights)</h3>
+  <h3>System Status (GitHub Insights)</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/Contributions-Fetching-brightgreen?style=for-the-badge&logo=github" />
     <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=statuspage" />
