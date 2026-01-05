@@ -1,19 +1,18 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/codermz996/codermz996/main/github_banner.png" width="100%" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=codermz%201998&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
   
   <br/>
 
-  <h1>🚀 Hi there, I'm <a href="https://coolandroid.blog.csdn.net/">codermz (MZ)</a></h1>
+  <h1>🚀 Hi there, I'm <a href="https://coolandroid.top/">codermz (MZ)</a></h1>
 
   <p align="center">
     <strong>Android Framework Engineer | Motorcycle Enthusiast | Tech Explorer</strong>
   </p>
 
   <p align="center">
-    <a href="https://github.com/codermz996">
-      <img src="https://img.shields.io/github/followers/codermz996?label=Follow&style=social" alt="GitHub Followers" />
+    <a href="https://github.com/codermz1998">
+      <img src="https://img.shields.io/github/followers/codermz1998?label=Follow&style=social" alt="GitHub Followers" />
     </a>
-    <img src="https://profile-counter.glitch.me/codermz996/count.svg" alt="Visitors" />
   </p>
 
   <hr />
@@ -52,26 +51,23 @@
 
   <br />
 
-  <h3>📈 GitHub Activity</h3>
+  <h3>� System Status (GitHub Insights)</h3>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=codermz996&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://img.shields.io/badge/Contributions-Fetching-brightgreen?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=statuspage" />
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codermz996&theme=vue-dark&hide_border=true&layout=compact" alt="Top Languages" />
-  </p>
-  
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codermz996&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=codermz1998&theme=github-compact&hide_border=true&area=true" width="100%" alt="Activity Graph" />
   </p>
 
   <hr />
 
   <h3>📫 Connect with me</h3>
   <p align="center">
-    <a href="https://coolandroid.blog.csdn.net/">
-      <img src="https://img.shields.io/badge/CSDN-Blog-C91B02?style=flat-square&logo=csdn&logoColor=white" height="28" />
+    <a href="https://coolandroid.top/">
+      <img src="https://img.shields.io/badge/Website-coolandroid.top-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" height="28" />
     </a>
-    <a href="https://t.me/WLHG8PLUS">
-      <img src="https://img.shields.io/badge/Telegram-Contact-26A6E1?style=flat-square&logo=telegram&logoColor=white" height="28" />
+    <a href="https://t.me/codermz1998">
+      <img src="https://img.shields.io/badge/Telegram-@codermz1998-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" height="28" />
     </a>
   </p>
 
@@ -93,11 +89,11 @@
          ||  ,'    ,' |        /          |
          ||,'    ,'   |       |         \  |
  _________|/    ,'     |      /           | |
- _____________,'      ,',_____|      |    | |
+ -------------,'      ,',_____|      |    | |
               |     ,','      |      |    | |
               |   ,','    ____|_____/    /  |
               | ,','  __/ |             /   |
- _____________|','   ///_/-------------/   |
+ -------------|','   ///_/-------------/   |
                |===========,'
     </pre>
   </details>
